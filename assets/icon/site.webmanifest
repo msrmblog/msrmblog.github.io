@@ -1,0 +1,19 @@
+{
+    "name": "MSRM Blog",
+    "short_name": "MSRM Blog",
+    "icons": [
+        {
+            "src": "/msrm_192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/msrm_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
