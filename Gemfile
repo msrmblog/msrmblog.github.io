@@ -14,8 +14,9 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "jekyll"
-# gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
+gem "jemoji"
+# gem "github-pages", group: :jekyll_plugins
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -26,4 +27,6 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-include-cache"
 end
