@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Blog Launch"
-date:   2020-01-08 15:00 +0200
+date:   2020-01-07 15:00 +0200
 categories: news
 author: "Axel Sauer"
 ---
