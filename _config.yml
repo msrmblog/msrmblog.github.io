@@ -20,7 +20,7 @@ title                    : "Munich School of Robotics and Machine Intelligence B
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Axel Sauer"
-description              : # "An amazing website."
+description              : "The research blog of the Munich School of Robotics and Machine Intelligence."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "msrmblog/msrmblog"
