@@ -113,7 +113,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.msrm.tum.de/en/home/"
+      url: "https://www.msrm.tum.de/home/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/msrm_tum"
