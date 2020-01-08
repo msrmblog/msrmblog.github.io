@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Blog Launch"
-date:   2019-04-24 15:00 +0200
+date:   2020-01-08 15:00 +0200
 categories: news
-author: "Andreas Geiger"
+author: "Axel Sauer"
 ---
-The Autonomous Vision Group at the Max Planck Institute for Intelligent System and the University of Tübingen is excited to launch our new research blog which will continuously provide updates on our latest research including non-technical descriptions, videos, links to technical papers, source code and datasets. Given the increased public interest in our research and AI in general, we believe that this blog will help making our findings more accessible, particularly also for interested readers outside the computer vision and machine learning field. If you like to follow this blog via email, simply click on the "Newsletter" or "Feed" buttons in the footer of this page. Feel free to send us your feedback on this blog!  We are looking forward to receiving your comments and improving this blog over time.
+
+We are excited to launch the "Munich School of Robotics and Machine Intelligence" blog! Here, we will write about our research done at the Institutes of the MSRM at TU Munich. However, no one likes to read densely written research papers (except maybe some Ph.D. students). We want to use this blog to also inform people outside of our research communities about what we are doing here and why we are excited about it. If you want to receive a mail when the blog is updated, you can subscribe under the "Subscribe" Button at the top of the page. We hope you enjoy the blog!

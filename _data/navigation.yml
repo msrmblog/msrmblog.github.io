@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Posts"
-    #    url:
+    url: /year-archive/
   - title: "Tags"
-    # url: 
+    url: /tags/
   - title: "Subscribe"
-    # url
+    url: /subscribe/
