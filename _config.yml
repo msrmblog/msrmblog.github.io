@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "msrm" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Munich School of Robotics and Machine Intelligence Blog"
+title                    : "MSRM Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Axel Sauer"
