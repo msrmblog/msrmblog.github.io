@@ -13,7 +13,7 @@ $footer-background-color: #0065BD !default;
 $link-color: black !default;
 $masthead-link-color: white !default;
 $masthead-link-color-hover: white !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 30%) !default;
+$navicon-link-color-hover: mix(#fff, $footer-background-color, 30%) !default;
 
 .masthead {
     background-color: $footer-background-color;
