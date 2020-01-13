@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "msrm" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "MSRM Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Axel Sauer"
+subtitle                 : Munich School of Robotics and Machine Intelligence # site tagline that appears below site title in masthead
+name                     : "MSRM"
 description              : "The research blog of the Munich School of Robotics and Machine Intelligence."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,18 +106,7 @@ analytics:
 
 
 # Site Author
-author:
-  name: " "
-  avatar : /assets/icon/msrm_full_512x512.png
-  email  :
-  location         : "Munich - Germany"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.msrm.tum.de/en/home/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/msrm_tum"
+author: "MSRM"
 
 # Site Footer
 footer:

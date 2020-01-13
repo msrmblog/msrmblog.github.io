@@ -1,3 +1,16 @@
+MSRM:
+  name: "MSRM"
+  avatar : /assets/icon/msrm_full_512x512.png
+  email            : "blog@msrm.tum.de"
+  location         : "Munich - Germany"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.msrm.tum.de/en/home/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/msrm_tum"
+
 Axel Sauer:
     name             : "Axel Sauer"
     avatar           :  https://axelsauer.com/authors/admin/avatar_hu198a8b92b98d30f15bc76e366262127b_32796_250x250_fill_q90_lanczos_center.jpg
