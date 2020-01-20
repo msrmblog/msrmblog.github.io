@@ -1,7 +1,7 @@
 MSRM:
   name: "MSRM"
   avatar : /assets/icon/msrm_full_512x512.png
-  email            : "blog@msrm.tum.de"
+  email            : "elie.aljalbout@tum.de"
   location         : "Munich - Germany"
   links:
     - label: "Website"
