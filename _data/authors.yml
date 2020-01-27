@@ -32,3 +32,14 @@ Johannes Klicpera:
       - label: "Website"
         icon: "fas fa-fw fa-link"
         url: https://www.in.tum.de/daml/team/johannes-klicpera/
+
+Pablo Lanillos:
+    name             : "Pablo Lanillos"
+    avatar           : http://www.therobotdecision.com/wp-content/uploads/2013/08/Me-224x300.jpg
+    bio              : ""
+    location         : "Nijmengen - Netherlands"
+    email            : "p.lanillos@donders.ru.nl"
+    links:
+      - label: "Website"
+        icon: "fas fa-fw fa-link"
+        url: http://www.therobotdecision.com/
