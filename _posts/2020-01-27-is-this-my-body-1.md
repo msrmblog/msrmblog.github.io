@@ -49,7 +49,7 @@ Fortunately for us, we can do a workaround by tracking the real distribution $p(
 
 $$D_{K L}(q(x) \| p(x | s))=F+\ln p(s)$$
 
-where $p(s)$ is the log-evidence of the model or surprise (in the free energy principle terminology). Note that the second term does not depend on the reference distribution so we can directly optimize $F$. (We leave the derivation of the negative variational free energy bound for another post.)
+where $\ln p(s)$ is the log-evidence of the model or surprise (in the free energy principle terminology). Note that the second term does not depend on the reference distribution so we can directly optimize $F$. (We leave the derivation of the negative variational free energy bound for another post.)
 
 The negative variational free energy is composed of two expectations:
 
@@ -173,7 +173,7 @@ Body perception and action variables are analyzed during an arm reaching with ac
 
 # More Info
 
-If you are interested in this research and want to learn more, check out the selfception project webpage and the related papers below. We will release the code in open source very soon. The students Guillermo Oliver and Cansu Sancaktar contributed with the research and this blog entry. A full video with all experiments can be watched [here](https://youtu.be/jhFYiI0QqY4).
+If you are interested in this research and want to learn more, check out the [selfception project webpage](http://www.selfception.eu/) and the related papers below. We will release the code in open source very soon. The students [Guillermo Oliver](https://www.linkedin.com/in/guiolpei/) and [Cansu Sancaktar](https://www.linkedin.com/in/cansu-sancaktar-61715b140/) contributed with the research and this blog entry. A full video with all experiments can be watched [here](https://youtu.be/jhFYiI0QqY4).
 
 > Check our continuation post Part II (coming soon) to dig into a deep learning version of this approach.
 
