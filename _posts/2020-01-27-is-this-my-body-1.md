@@ -127,7 +127,7 @@ Sensory data and dynamic models are assumed to be noisy following a normal distr
 $$
 \begin{aligned}
 &p\left(s_{p} | \mu\right)=\mathcal{N}\left(\mu, \Sigma_{s_{p}}\right)\\
-&p\left(s_{v} | \mu\right)=\mathcal{N}\left(g(\mu), \Sigma_{R v}\right)\\
+&p\left(s_{v} | \mu\right)=\mathcal{N}\left(g(\mu), \Sigma_{s_v}\right)\\
 &p\left(\mu^{\prime} | \mu, \rho\right)=\mathcal{N}\left(f(\mu, \rho), \Sigma_{\mu}\right)
 \end{aligned}
 $$
