@@ -175,22 +175,24 @@ Body perception and action variables are analyzed during an arm reaching with ac
 
 If you are interested in this research and want to learn more, check out the [selfception project webpage](http://www.selfception.eu/) and the related papers below. We will release the code in open source very soon. The students [Guillermo Oliver](https://www.linkedin.com/in/guiolpei/) and [Cansu Sancaktar](https://www.linkedin.com/in/cansu-sancaktar-61715b140/) contributed with the research and this blog entry. A full video with all experiments can be watched [here](https://youtu.be/jhFYiI0QqY4).
 
-> Check our continuation post Part II (coming soon) to dig into a deep learning version of this approach.
+> Check our continuation post [Part II](../is-this-my-body-2/) to dig into a deep learning version of this approach.
 
-    @article{oliver2019active,
-      title={Active inference body perception and action for humanoid robots},
-      author={Oliver, Guillermo and Lanillos, Pablo and Cheng, Gordon},
-      journal={arXiv preprint arXiv:1906.03022},
-      year={2019}
-    }
+```bibtex
+@article{oliver2019active,
+  title={Active inference body perception and action for humanoid robots},
+  author={Oliver, Guillermo and Lanillos, Pablo and Cheng, Gordon},
+  journal={arXiv preprint arXiv:1906.03022},
+  year={2019}
+}
 
-    @inproceedings{lanillos2018adaptive,
-      title={Adaptive robot body learning and estimation through predictive coding},
-      author={Lanillos, Pablo and Cheng, Gordon},
-      booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={4083--4090},
-      year={2018},
-      organization={IEEE}
-    }
+@inproceedings{lanillos2018adaptive,
+  title={Adaptive robot body learning and estimation through predictive coding},
+  author={Lanillos, Pablo and Cheng, Gordon},
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4083--4090},
+  year={2018},
+  organization={IEEE}
+}
+```
 
-__Acknowledgements__. This work has been supported by SELFCEPTION project, European Union Horizon 2020 Programme under grant agreement n. 741941, the European Union’s Erasmus+ Programme, the Institute for Cognitive Systems at the Technical University of Munich (TUM) and the Artificial Cognitive Systems at the Donders Institute for Brain, Cognition and Behaviour.
+__Acknowledgements__. This work has been supported by SELFCEPTION project, European Union Horizon 2020 Programme under grant agreement n. 741941, the European Union’s Erasmus+ Programme, the [Institute for Cognitive Systems](http://www.ics.ei.tum.de/) at the Technical University of Munich (TUM) and the [Artificial Cognitive Systems](http://artcogsys.com/) at the Donders Institute for Brain, Cognition and Behaviour.

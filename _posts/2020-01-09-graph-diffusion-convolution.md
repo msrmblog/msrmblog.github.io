@@ -94,9 +94,12 @@ If you want to get started with graph neural networks I recommend having a look 
 
 If you want to have a closer look at GDC I recommend checking out [our paper](https://arxiv.org/abs/1911.05485) and [our reference implementation](https://github.com/klicperajo/gdc), where you will find a notebook that lets you reproduce our paper’s experimental results.
 
-    @inproceedings{klicpera_diffusion_2019,
-        title = {Diffusion Improves Graph Learning},
-        author = {Klicpera, Johannes and Wei{\ss}enberger, Stefan and G{\"u}nnemann, Stephan},
-        booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
-        year = {2019}
-    }
+
+```bibtex
+@inproceedings{klicpera_diffusion_2019,
+    title = {Diffusion Improves Graph Learning},
+    author = {Klicpera, Johannes and Wei{\ss}enberger, Stefan and G{\"u}nnemann, Stephan},
+    booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
+    year = {2019}
+}
+```
