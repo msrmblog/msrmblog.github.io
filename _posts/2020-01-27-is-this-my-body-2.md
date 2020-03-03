@@ -148,7 +148,7 @@ If you are interested in this research and want to learn more, check out the [se
 ```bibtex
 @article{sancaktar2020active,
   title={End-to-End Pixel-Based Deep Active Inference for Body Perception and Action},
-  author={Sancaktar, Cansu and Lanillos, Pablo},
+  author={Sancaktar, Cansu and van Gerven, Marcel, and Lanillos, Pablo},
   journal={arXiv preprint arXiv:2001.05847},
   year={2020}
 }
