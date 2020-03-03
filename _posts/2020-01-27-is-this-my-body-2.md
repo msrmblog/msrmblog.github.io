@@ -46,7 +46,7 @@ $$
 $$
 
 For improving clarity and generalization, I will first explain the algorithm with the example of perceiving numbers with the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database). We learn the decoder network that converts the latent space $\mu$ into the image of the digits 0 to 9 with the exception of number 8 that we remove from the database. 
-After the training, we can perform the first experiment using FEP to update the belief of the world. Below you have a snippet of our PyTorch code used for computing one iteration of $\mu$ update (in the [pixel-AI](https://docs.google.com/document/d/1m9cTddZC0eorikLzV80ze2kFvRUXf2AQ_0XV3pRF9jk/edit#heading=h.z82utu4k5olg) section we explain this method further).
+After the training, we can perform the first experiment using FEP to update the belief of the world. Below you have a snippet of our PyTorch code used for computing one iteration of $\mu$ update
 
 ```py
 input = Variable(mu, requires_grad=True) # hidden variable
@@ -140,10 +140,7 @@ The following video shows the Pixel-AI running on the real robot. The visual goa
 # More Info
 
 
-If you are interested in this research and want to learn more, check out the [selfception project webpage](http://www.selfception.eu/) and the related papers below. We will release the code in open source very soon. The students [Guillermo Oliver](https://www.linkedin.com/in/guiolpei/) and [Cansu Sancaktar](https://www.linkedin.com/in/cansu-sancaktar-61715b140/) contributed with the research and this blog entry. A full video with all experiments can be watched [here](https://youtu.be/jhFYiI0QqY4).
-
-> Check our continuation post Part II (coming soon) to dig into a deep learning version of this approach.
-
+If you are interested in this research and want to learn more, check out the [selfception project webpage](http://www.selfception.eu/) and the related papers below. We will release the code in open source very soon. The students [Guillermo Oliver](https://www.linkedin.com/in/guiolpei/) and [Cansu Sancaktar](https://www.linkedin.com/in/cansu-sancaktar-61715b140/) contributed with the research and this blog entry. 
 
 ```bibtex
 @article{sancaktar2020active,
